@@ -10,8 +10,8 @@ body{
     margin: auto;
 }
 .myPhoto{
-    width: 20vw;
-    height: 45vh;
+    width: 300px;
+    height: 300px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -20,7 +20,7 @@ body{
     margin: auto;
 }
 .myPhoto img{
-    width: 15vw;
+    width: 200px;
     height: auto;
     border-radius: 100%;
     border:5px solid #fff;

@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color:#0A1931;
+    font-family: 'Dosis', sans-serif;
+}
+.fondo{
+    width: 90vw ;
+    height: 100vh;
+    display:block;
+    margin: auto;
+}
+.myPhoto{
+    width: 20vw;
+    height: 45vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+.myPhoto img{
+    width: 15vw;
+    height: auto;
+    border-radius: 100%;
+    border:5px solid #fff;
+    display: block;
+    margin: auto;
+}
+h1,h2{
+    color: white;
+    text-align: center;
+}
